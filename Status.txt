@@ -1,6 +1,6 @@
 {
     "SoftwareVersion": "1.2",
     "SoftwareUrl":"https://snazzy-horse-1f6b7c.netlify.app/Executor.zip",
-    "Status":"False",
+    "Status":"True",
     "Changelog":"[+] UI Fixes"
 }
